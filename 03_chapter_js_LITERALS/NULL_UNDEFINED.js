@@ -4,7 +4,7 @@
 
     var a; // a is undefined
     console.log(a); // Output: undefined
-
+    
     var b = null; // b is null
     console.log(b); // Output: null
 
@@ -26,3 +26,5 @@
     checkValue(a); // Output: The value is undefined.
     checkValue(b); // Output: The value is null.
     checkValue(c); // Output: The value is neither undefined nor null.
+
+

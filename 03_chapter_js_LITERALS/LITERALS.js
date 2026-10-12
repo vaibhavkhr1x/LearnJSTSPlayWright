@@ -8,6 +8,7 @@ let greet = function() { //Function literal
 }
 let nullValue = null; //Null literal
 let undefinedValue; //Undefined literal
+let Vaibhav*123 = NaN; //NaN literal
 let symbolValue = Symbol("unique"); //Symbol literal
 let bigIntValue = 1234567890123456789012345678901234567890n; //BigInt literal
 let regexValue = /ab+c/; //Regular expression literal

@@ -31,4 +31,4 @@ console.log(typeof regexValue); // Output: object
 console.log(typeof templateLiteral); // Output: string
 console.log(typeof multiLineString); // Output: string
 console.log(typeof binaryLiteral); // Output: number
-console.log(typeof octalLiteral); // Output: number
+console.log(typeof octalLiteral); // Output: number 
